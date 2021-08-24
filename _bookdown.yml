@@ -1,4 +1,4 @@
-book_filename: "gitbook-demo"
+book_filename: "Sustainable Ruminant Health"
 rmd_files: ["index.Rmd",
             "prerequisites.Rmd",
             "get_your_gitbook.Rmd",
