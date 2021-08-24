@@ -1,8 +1,8 @@
 --- 
-title: "A GitBook Example for Teaching"
+title: "Guidelines for Dairy Cattle Milk Recording"
 author: "[dr. Caspar J. van Lissa](https://www.uu.nl/staff/CJvanLissa)"
 date: "`r Sys.Date()`"
-description: This GitBook is an example of a GitBook for teaching. It can be 
+description: This section is an example of a GitBook for teaching. It can be 
   adapted for specific courses. The output format for this example
   is bookdown::gitbook.
 documentclass: book
@@ -15,14 +15,11 @@ site: bookdown::bookdown_site
 biblio-style: apalike
 ---
 
-<!--"Using GitBooks to create Open course materials"-->
-# About GitBooks
+# Introduction 
 
-![](./img/using_gitbook.jpeg)
+![](./img/ICAR.jpg)
 
-A *GitBook* is a useful tool for creating (open?) educational resources. It is an online "book" format, that can be hosted directly from a GitHub repository. You are currently reading a GitBook designed to help you get started creating your own educational GitBooks for your courses (how meta!). It does this in two ways: By explaining how to create GitBooks, and by serving as a template that you can copy and edit, instead of having to start from scratch. This template GitBook has all the settings that I consider to be useful for educational GitBooks, but you can always customize it.
-
-I will focus specifically on GitBooks that are made in [Rstudio](https://rstudio.com), using the [`rmarkdown` markup language](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf), rendered using the [`bookdown` package](https://bookdown.org/yihui/bookdown/get-started.html), and hosted on [GitHub](https://github.com/). If you want to get started, skip ahead to Chapter \@ref(prerequisites); if you need more convincing, keep reading below.
+Information about milk production traits is very important for managing and breeding dairy herds. The milk recording  process starts with the collection of animal identification, a calving date of milking cows, the amount of milk given and the date with time or time frame of a day. A milk sample may be taken. The obtained milk sample is analysed for milk constituents. The results of the analysis plus the data about milk yield and time of milking are stored in a database. Subsequently a number of parameters, cumulative yields and indices are calculated and stored in the database and, finally, reported to the farmer. This section (2) of the [ICAR](https://www.icar.org/) Guidelines focuses on the milk recording process for dairy cattle. 
 
 ## Why use a GitBook for teaching?
 
